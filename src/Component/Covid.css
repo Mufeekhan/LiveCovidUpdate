@@ -1,0 +1,22 @@
+.card {
+  width: 200px;
+  height: 150px;
+  box-shadow: 8px 10px 13px blue;
+  border-radius: 8px;
+  list-style: none;
+  display: inline-flex;
+  padding: 10px;
+  margin: 12px;
+  cursor: pointer;
+  text-align: center;
+}
+.card-name {
+  font-weight: bold;
+}
+h1,
+h2 {
+  text-align: center;
+}
+p:hover {
+  background-color: brown;
+}
